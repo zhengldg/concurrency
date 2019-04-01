@@ -47,6 +47,11 @@
 			<artifactId>joda-time</artifactId>
 			<version>2.3</version>
 		</dependency>
+		<dependency>
+			<groupId>org.sonatype.sisu</groupId>
+			<artifactId>sisu-guava</artifactId>
+			<version>0.9.9</version>
+		</dependency>
 	</dependencies>
 
 	<build>
